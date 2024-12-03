@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Date Class Project Jaden White.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Dates.cpp" />
   </ItemGroup>
   <ItemGroup>
