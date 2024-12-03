@@ -18,5 +18,13 @@
     <ClCompile Include="Date Class Project Jaden White.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Dates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
